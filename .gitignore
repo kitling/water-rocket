@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Project IO ignore.
+.pioenvs/
+.clang_complete
+.gcc-flags.json
+
+# Editor files
+*~
